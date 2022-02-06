@@ -3,7 +3,4 @@
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=ssuzunov19&theme=tokyonight&show_icons=true&count_private=true">
 </p>
-<br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ssuzunov19&layout=compact">
-</p>
+
