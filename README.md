@@ -25,7 +25,7 @@
 ---
 
 ### :woman_technologist: About Me :
-   I am(was) studying to become a Cybersecurity Speacialist. With experience in C++, C#, JavaScript, Python and a background in Computer Engineering. Strong leadership and teamwork skills.  I have a parcel of encounter working with groups and creating situations that cultivate astounding results. Reliable and always enthusiastic to require on unused challenges and pick up modern abilities. Conversational fluency in both English and Bulgarian.
+   I'm developer with skills to make amazing projects. With experience in C++, C#, JavaScript (React, Next, Nest), Python and a background in Computer Engineering. I'm also a junior penetration tester but I don't have the motivation for it anymore. Strong leadership and teamwork skills.  I have a parcel of encounter working with groups and creating situations that cultivate astounding results. Reliable and always enthusiastic to require on unused challenges and pick up modern abilities. Conversational fluency in both English and Bulgarian.
 
 ---
 
