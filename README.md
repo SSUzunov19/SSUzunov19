@@ -17,7 +17,7 @@
 
 <div align="center">
    <h1>Alert!!!</h1>
-   <a href="https://bit.ly/3gI26Wf" target="_blank">
+   <a href="https://matias.me/nsfw/" target="_blank">
    Don't click me!
    </a>
 </div>
