@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Stas Uzunov</h1>
   <p><strong>Full Stack Web Developer</strong> | <strong>JavaScript/TypeScript, Node.js, SQL</strong></p>
-  <p><strong>Currently working in Orbis Digital Services</strong> | Nest.js, Express.js, React.js, Next.js, PostgreSQL, Docker</p>
+  <p><strong>Currently working in Sportal365</strong> | Nest.js, Express.js, React.js, Next.js, PostgreSQL, Docker</p>
 </div>
 
 <hr>
