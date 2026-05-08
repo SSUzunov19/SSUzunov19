@@ -7,6 +7,7 @@
 <hr>
 
 <h2>Connections:</h2>
+<p>My book - <a href="https://www.otdetemuj.bg/">https://www.otdetemuj.bg/</a></p>
 <p>Email - <a href="mailto:stasuzunov1@gmail.com">stasuzunov1@gmail.com</a></p>
 <p>LinkedIn - <a href="https://www.linkedin.com/in/stas-uzunov/">https://www.linkedin.com/in/stas-uzunov/</a></p>
 <p>YouTube - <a href="https://www.youtube.com/@PraisiMobileApp">https://www.youtube.com/@PraisiMobileApp</a></p>
